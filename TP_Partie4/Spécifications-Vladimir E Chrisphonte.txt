@@ -1,0 +1,25 @@
+Classe LireFichier: 
+Le programme permet de lire le fichier texte.
+
+Buffering:
+Méthode qui lit le fichier dans son dossier
+
+RepereTitres: 
+Méthode qui sépare les listres selon les titres dans le fichier texte.
+
+Vérifier:
+Méthode qui valide toutes les données à l'entrée
+
+ErrorsMsge:
+Méthode qui affiche les messages d'erreurs.
+
+FaireFacture:
+Méthode qui affiche la facture finale;
+
+Classe CalculerFacture:
+
+calculTaxe:
+Méthode qui calcul le taxe.
+
+Méthode calculer:
+Méthode pour calculer et afficher la facture.

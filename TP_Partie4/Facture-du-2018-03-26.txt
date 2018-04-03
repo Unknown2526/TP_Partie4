@@ -1,0 +1,4 @@
+Erreur des clients:
+Bob n'est pas dans la liste des clients.
+Jean-Philippe n'est pas dans la liste des clients.
+

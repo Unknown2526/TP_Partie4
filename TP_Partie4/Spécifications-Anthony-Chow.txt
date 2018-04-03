@@ -1,0 +1,34 @@
+Classe Vérification: 
+Le programme permet de vérifier toutes les entrées et retourne un boolean.
+
+verifieFichier:
+Méthode qui vérifie le format du fichier
+
+verifieNomCommande: 
+Méthode qui valide le nom des clients dans la commande
+
+verifiePlatCommande: 
+Méthode qui valide le plat des clients dans la commande
+
+verifiePrix:
+Méthode qui valide le prix des plat dans la commande des clients
+
+Classe CalculerFacture:
+Le programme permet de calculer et d'afficher la facture des commandes
+ de la clientèle de Mr. Barrette
+
+Constructeur CalculerFacture: 
+Méthode pour construire les entrées du sytème de gestion de Mr. Barrette.
+
+
+Constructeur CalculerFacture:
+Méthode pour recevoit et construire les tableaux
+
+ajoutCalcul: 
+Méthode qui valide les facture ajoutées au tableau de facturation
+
+isPrixValid:
+Méthode qui vérifie le format du prix.
+
+addFactFinal:
+Méthode qui ajoute la facture finale dans un tableau
